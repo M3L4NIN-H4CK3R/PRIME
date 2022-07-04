@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  MELANIN
+  PRIME
 </h1>
 </div>
 <p align="center">
@@ -36,11 +36,11 @@ $ python PRIME.py
 <th>DURATION</th>
 </tr>
 <tr>
-<td>10k</td>
+<td>6k</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
-<td>40K</td>
+<td>10K</td>
 <td>PREMIUM</td>
 </tr>
 </table>
@@ -50,5 +50,5 @@ This a paid tool only .you only get approved when you pay
 https://wa.me/+2349060816396.
 
 
-##### AM YOUR DAD
+##### Don't forget to follow my GITHUB profile 
 
