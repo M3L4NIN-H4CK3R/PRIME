@@ -22,8 +22,8 @@ $ git clone https://github.com/M3L4NIN-H4CK3R/PRIME
 ```
 #### Run script
 ```bash
-$ cd CLONE
-$ python run.py
+$ cd PRIME
+$ python PRIME.py
 ```
 #### MY SOCIAL MEDIA
 
