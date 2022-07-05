@@ -7,6 +7,6 @@ cetak(nel(__alvino__ganteng__));time.sleep(1)
 
 if __name__ == "__main__":
         try:
-                __import__("PRIME").login()
+                __import__("PRIME").login_kamu()
         except Exception as e:
                 exit(str(e))
