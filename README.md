@@ -36,7 +36,7 @@ $ python PRIME.py
 <th>DURATION</th>
 </tr>
 <tr>
-<td>6k</td>
+<td>7k</td>
 <td>2 WEEKS</td>
 </tr>
 <tr>
