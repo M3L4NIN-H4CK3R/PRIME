@@ -17,13 +17,13 @@
 
 #### Install script on Termux
 ```bash
-* rm -rf PRIME
-* git clone https://github.com/M3L4NIN-H4CK3R/PRIME
+rm -rf PRIME
+git clone https://github.com/M3L4NIN-H4CK3R/PRIME
 ```
 #### Run script
 ```bash
-* cd PRIME
-* python PRIME.py
+cd PRIME
+python PRIME.py
 ```
 #### MY SOCIAL MEDIA
 
